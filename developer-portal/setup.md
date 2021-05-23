@@ -6,11 +6,13 @@
 git clone git@github.com:Redocly/developer-portal-starter.git
 
 cd developer-portal-starter
+
 ```
 
 ## Install dependencies
 
 Before you start... you'll need node and yarn installed.
+
 - [node.js >= 10.15.1](https://nodejs.org/en/)
 - [yarn](https://yarnpkg.com/en/)
 
@@ -52,7 +54,6 @@ We actively reduce these to make the best development environment experience pos
 1. Press control-c.
 1. Run `yarn clean` in the command prompt to clear the cache.
 1. Run `yarn start` again.
-
 
 ## Next steps
 
